@@ -2,7 +2,7 @@
 		<div class="x_title">
 			
             <div class="modulo_titulo">
-                Proveedores
+                Proveedores para el nuevo sistema de inventario y mas x2
             </div>
 			
 		</div>
