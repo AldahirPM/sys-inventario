@@ -11,7 +11,7 @@
 			<div class="acciones_modulo">
 			<?php if($permisos['permisos'][0]['per_crear'] == 1):?>
 				<button type="button" class="btn btn-primary btn-sm btn-frm-modal"  data-id =""  data-tipo ="N"  data-form="proveedores"  data-toggle="modal" data-target=".bs-example-modal-lg">
-					<i class="fa fa-plus"></i> Agregar Proveedor 
+					<i class="fa fa-plus"></i> Agregar Proveedor  es
 				</button>
 				<?php endif;?>
 
